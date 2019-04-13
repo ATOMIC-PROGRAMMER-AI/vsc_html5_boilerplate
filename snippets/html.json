@@ -14,6 +14,7 @@
 			"\t\t<meta name=\"description\" content=\"\">",
 			"\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
 			"\t\t<link rel=\"stylesheet\" href=\"$2\">",
+			"\t\t<link rel=\"icon\" href=\"\" type=\"image/gif\" sizes=\"\">,
     		"\t</head>",
     		"\t<body>",
         	"\t\t<!--[if lt IE 7]>",
